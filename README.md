@@ -1,5 +1,7 @@
 # Bank-Customer-Segmentation
 
+Google Colab: https://colab.research.google.com/drive/1j-phH4_Az0Lt8msBralaSOaBe6Od1iGM?usp=sharing
+
 #### Content
 
 Most banks have a large customer base - with different characteristics in terms of age, income, values, lifestyle, and more. Customer segmentation is the process of dividing a customer dataset into specific groups based on shared traits.
