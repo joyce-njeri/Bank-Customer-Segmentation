@@ -3,6 +3,7 @@
 #### Resource Links
 * Google Colab: https://colab.research.google.com/drive/1j-phH4_Az0Lt8msBralaSOaBe6Od1iGM?usp=sharing
 * Heroku App: https://bank-customer-segmentation.herokuapp.com/ 
+* Data source: https://www.kaggle.com/shivamb/bank-customer-segmentation
 
 #### Content
 
@@ -19,7 +20,3 @@ The sample dataset consists of 1 Million+ transaction by over 800K customers for
 #### Goal
 
 Perform Clustering / Segmentation on the dataset and identify popular customer groups along with their definitions/rules
-
-#### Data Source
-
-Kaggle: [Customer demographics and transactions data from an Indian Bank](https://www.kaggle.com/shivamb/bank-customer-segmentation)
