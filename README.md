@@ -4,6 +4,7 @@
 * Google Colab: https://colab.research.google.com/drive/1j-phH4_Az0Lt8msBralaSOaBe6Od1iGM?usp=sharing
 * Heroku App: https://bank-customer-segmentation.herokuapp.com/ 
 * Data source: https://www.kaggle.com/shivamb/bank-customer-segmentation
+* Deployment Demo: https://drive.google.com/file/d/1d5oxxKFHBCqyacqwoSeWCSAUUXDO46Xd/view?usp=sharing 
 
 #### Content
 
